@@ -1,0 +1,17 @@
+{
+    "name": "dwedaz/tuya-api-wrapper",
+    "authors": [
+        {
+            "name": "willy",
+            "email": "neo.dwedaz@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Dwedaz\\TuyaApiWrapper\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    }
+}
