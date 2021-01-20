@@ -33,7 +33,7 @@ require_once '/path/to/your-project/vendor/autoload.php';
 ```
 
 # Requirements
-* [PHP 7.0.0 or higher](https://www.php.net/)
+* [PHP 7.2.5 or higher](https://www.php.net/)
 
 ### Basic Example ###
 
